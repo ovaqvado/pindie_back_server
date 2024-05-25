@@ -1,4 +1,4 @@
-github frontend: https://github.com/ovaqvado/pindie_back_server.git
+github frontend: https://github.com/ovaqvado/pindie_frontend_dp
 
 domen frontend: https://frontendgames-yp.nomoredomainswork.ru/
 
