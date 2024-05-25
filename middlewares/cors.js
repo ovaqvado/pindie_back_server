@@ -1,4 +1,4 @@
-const allowedCors = ["https://frontendgames-yp.nomoredomainswork.ru", "http://localhost:3000", "http://localhost:3001"];
+const allowedCors = ["https://frontendgames-yp.nomoredomainswork.ru", "https://backendgames-yp.nomoredomainswork.ru", "http://localhost:3000", "http://localhost:3001"];
 
 
 function cors(req, res, next) {
