@@ -1,5 +1,5 @@
-Ссылка на репозиторий с фронтендом: https://github.com/polina27072/pindie-my-app/pull/4
+github frontend: https://github.com/ovaqvado/pindie_frontend_dp
 
-Ссылка на домен фронтенда: https://polina-frontend.nomoredomainswork.ru
+domen frontend: https://frontendgames-yp.nomoredomainswork.ru/
 
-IP-адрес: 158.160.162.10
+IP-адрес: 158.160.165.172
