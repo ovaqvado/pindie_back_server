@@ -1,5 +1,5 @@
-github backend: https://github.com/ovaqvado/pindie_back_server.git
+github frontend: https://github.com/ovaqvado/pindie_back_server.git
 
-domen backend: https://backendgames-yp.nomoredomainswork.ru/
+domen frontend: https://frontendgames-yp.nomoredomainswork.ru/
 
 IP-адрес: 158.160.165.172
